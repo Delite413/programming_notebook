@@ -1,0 +1,1 @@
+UTF-8 was invented in 1992 by Ken Thompson and Rob Pike, two of the creators of Go.

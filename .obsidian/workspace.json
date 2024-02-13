@@ -11,22 +11,12 @@
             "id": "308d312268ecaf27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "e7ddefbbf9a49a50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "191073b881e9d581",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md"
+              }
             }
           }
         ]
@@ -152,9 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0b21ade363861db",
+  "active": "308d312268ecaf27",
   "lastOpenFiles": [
-    "Books/Learning Go 2nd Edition",
+    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/UTF-8 Creators.md",
+    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
+    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/make.md",
+    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Slice Growth at Capacity.md",
+    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/The Go Runtime.md",
+    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/reflect.DeepEqual.md",
+    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Call by Value Language.md",
+    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types",
+    "Books/Go",
+    "Books/Go/Learning Go 2nd Edition",
     "Books",
     "Welcome.md"
   ]

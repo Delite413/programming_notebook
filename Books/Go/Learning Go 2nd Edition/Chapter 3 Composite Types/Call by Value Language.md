@@ -1,0 +1,1 @@
+Every time you pass a parameter to a function, Go makes a copy of the value that's passed in.
