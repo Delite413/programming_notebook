@@ -1,0 +1,7 @@
+Specifies a limit on the total amount of memory your Go program is allowed to use.
+
+By default, it is disabled (technically it is set to math.MaxInt64, but it's unlikely that your computer has that much memory.) The value for GOMEMLIMIT is specified in bytes, but you can optionally use the suffixes B, KiB, MiB, GiB, and TiB.
+
+It might seem counter intuitive that limiting the maximum amount of memory could improve a program's performance, but there are good reasons this flag was added. The primary reason is that computers (or virtual machines or containers) don't have infinite RAM. If a sudden temporary spike occurs in memory usage, relying on GOGC alone might result in a the maximum heap size exceeding the amount of available memory. This can cause memory to swap to disk, which is very slow. Depending on your operating system and it's settings, it might crash your program. Specifying a maximum memory limit prevents the heap from growing beyond the computer's resources.
+
+GOMEMLIMIT is a soft limit that can be exceeded in certain circumstances. A common problem occurs in garbage-collected systems when the collector is unable to free up enough memory to get within a memory limit, or the garbage-collection cycles are rapidly being triggered because a program is repeatedly hitting the limit. Called thrashing, this results in a program that does nothing other than run the garbage collector. If the Go runtime detects that thrashing is starting to happen, it chooses to end the current garbage-collection cycle and exceed the limit.

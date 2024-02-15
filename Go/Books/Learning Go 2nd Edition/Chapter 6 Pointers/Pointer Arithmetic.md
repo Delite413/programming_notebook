@@ -1,0 +1,1 @@
+Pointer arithmetic are not allowed in Go.

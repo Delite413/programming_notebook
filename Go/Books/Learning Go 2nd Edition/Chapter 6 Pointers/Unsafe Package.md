@@ -1,0 +1,1 @@
+The Go standard library does have an unsafe package that lets you do some low-level operations on data structures. While pointer manipulation is used in C for common operations, it is exceedingly rare for Go developers to use unsafe.

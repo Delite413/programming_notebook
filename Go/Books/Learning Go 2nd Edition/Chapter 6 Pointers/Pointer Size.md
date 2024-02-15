@@ -1,0 +1,1 @@
+Many modern computers use 8 bytes for a pointer

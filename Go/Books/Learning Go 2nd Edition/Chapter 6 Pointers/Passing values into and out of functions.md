@@ -1,0 +1,1 @@
+Since version 1.17, Go uses a combination of registers (a small set of very high speed memory that's directly on the CPU) and the stack to pass values into and out of functions. It's faster and more complicated, but the general concepts of stack-only function calls still apply.

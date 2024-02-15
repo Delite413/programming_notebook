@@ -1,0 +1,1 @@
+Go is a small language with only 25 keywords.

@@ -1,0 +1,1 @@
+A for-range loop iterates over the runes, not the bytes when provided a string. Whenever a for-range loop encounters a multibyte rune in a string, it converts the UTF-8 representation into a single 32-bit number and assigns it to the value. The offset is incremented by the number of bytes in the rune.

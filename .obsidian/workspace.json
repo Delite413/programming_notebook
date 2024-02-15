@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
+                "file": "General/Random/Numbers every programmer should know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da3a4f8c7534a95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md"
+                "file": "To Do.md"
               }
             }
           }
@@ -146,19 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "308d312268ecaf27",
+  "active": "da3a4f8c7534a95d",
   "lastOpenFiles": [
-    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/UTF-8 Creators.md",
-    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
-    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/make.md",
-    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Slice Growth at Capacity.md",
-    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/The Go Runtime.md",
-    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/reflect.DeepEqual.md",
-    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types/Call by Value Language.md",
-    "Books/Go/Learning Go 2nd Edition/Chapter 3 Composite Types",
-    "Books/Go",
-    "Books/Go/Learning Go 2nd Edition",
-    "Books",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/GOMEMLIMIT.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/GOGC Environment Variable.md",
+    "To Do.md",
+    "General/Random/Numbers every programmer should know.md",
+    "Go/Presentations/Memory Management/Memory Management.md",
+    "General/Random",
+    "General/Untitled.canvas",
+    "General",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/The Tail at Scale.md",
+    "Go/Presentations/Memory Management",
+    "Go/Presentations",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/Go can increase the size of a stack while running.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/Passing values into and out of functions.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/Make Pointer Helper.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/Unsafe Package.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/Pointer Arithmetic.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/Pointer Size.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 4 Blocks, Shadows, and Control Structures/Iterating over strings with for-range.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers",
+    "Go/Books/Learning Go 2nd Edition/Chapter 4 Blocks, Shadows, and Control Structures/Keywords.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/Go Hashmap Implementation.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 4 Blocks, Shadows, and Control Structures",
+    "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/UTF-8 Creators.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/make.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/Slice Growth at Capacity.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/The Go Runtime.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/reflect.DeepEqual.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/Call by Value Language.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types",
+    "Go",
+    "Go/Books/Learning Go 2nd Edition",
+    "Go/Books",
     "Welcome.md"
   ]
 }
