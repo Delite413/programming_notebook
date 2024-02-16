@@ -6,4 +6,7 @@
 
 [ ] Read https://go.dev/blog/ismmkeynote
 
-[ ] Read https://oreil.ly/lM_X8
+[ ] Read https://oreil.ly/lM_X8a
+
+[ ] Read https://oreil.ly/i7P5_
+[ ] Read https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/ch08.html#generic_speed

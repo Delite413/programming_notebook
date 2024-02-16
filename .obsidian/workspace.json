@@ -161,9 +161,11 @@
   },
   "active": "da3a4f8c7534a95d",
   "lastOpenFiles": [
+    "Go/Books/Learning Go 2nd Edition/Chapter 7 Types Methods and Interfaces/Receiver Rules.md",
+    "To Do.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 7 Types Methods and Interfaces",
     "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/GOMEMLIMIT.md",
     "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/GOGC Environment Variable.md",
-    "To Do.md",
     "General/Random/Numbers every programmer should know.md",
     "Go/Presentations/Memory Management/Memory Management.md",
     "General/Random",
@@ -192,7 +194,6 @@
     "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types",
     "Go",
     "Go/Books/Learning Go 2nd Edition",
-    "Go/Books",
     "Welcome.md"
   ]
 }
