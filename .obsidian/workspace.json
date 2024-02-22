@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
+                "file": "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "da3a4f8c7534a95d",
   "lastOpenFiles": [
-    "Go/Books/Learning Go 2nd Edition/Chapter 7 Types Methods and Interfaces/Receiver Rules.md",
     "To Do.md",
+    "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md",
+    "Go/Presentations/How do you structure your Go apps",
+    "Go/Books/Learning Go 2nd Edition/Chapter 7 Types Methods and Interfaces/Receiver Rules.md",
     "Go/Books/Learning Go 2nd Edition/Chapter 7 Types Methods and Interfaces",
     "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/GOMEMLIMIT.md",
     "Go/Books/Learning Go 2nd Edition/Chapter 6 Pointers/GOGC Environment Variable.md",
@@ -193,7 +195,6 @@
     "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/Call by Value Language.md",
     "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types",
     "Go",
-    "Go/Books/Learning Go 2nd Edition",
     "Welcome.md"
   ]
 }

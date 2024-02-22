@@ -10,3 +10,4 @@
 
 [ ] Read https://oreil.ly/i7P5_
 [ ] Read https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/ch08.html#generic_speed
+[ ] Read https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/
