@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md",
+                "file": "Go/Books/Learning Go 2nd Edition/Chapter 12 Concurrency in Go/How Channels Behave.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md",
+                "file": "Go/Books/Learning Go 2nd Edition/Chapter 12 Concurrency in Go/How Channels Behave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md",
+                "file": "Go/Books/Learning Go 2nd Edition/Chapter 12 Concurrency in Go/How Channels Behave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md"
+                "file": "Go/Books/Learning Go 2nd Edition/Chapter 12 Concurrency in Go/How Channels Behave.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   "active": "da3a4f8c7534a95d",
   "lastOpenFiles": [
     "To Do.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 12 Concurrency in Go/How Channels Behave.md",
+    "Go/Books/Learning Go 2nd Edition/Chapter 12 Concurrency in Go",
     "Go/Presentations/How do you structure your Go apps/How do you structure your Go Apps.md",
     "Go/Presentations/How do you structure your Go apps",
     "Go/Books/Learning Go 2nd Edition/Chapter 7 Types Methods and Interfaces/Receiver Rules.md",
@@ -194,7 +196,6 @@
     "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/reflect.DeepEqual.md",
     "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types/Call by Value Language.md",
     "Go/Books/Learning Go 2nd Edition/Chapter 3 Composite Types",
-    "Go",
     "Welcome.md"
   ]
 }
